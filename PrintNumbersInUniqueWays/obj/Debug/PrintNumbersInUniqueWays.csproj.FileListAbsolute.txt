@@ -1,0 +1,6 @@
+C:\Users\c-rajesh.thomas\source\repos\PrintNumbersInUniqueWays\PrintNumbersInUniqueWays\bin\Debug\PrintNumbersInUniqueWays.exe.config
+C:\Users\c-rajesh.thomas\source\repos\PrintNumbersInUniqueWays\PrintNumbersInUniqueWays\bin\Debug\PrintNumbersInUniqueWays.exe
+C:\Users\c-rajesh.thomas\source\repos\PrintNumbersInUniqueWays\PrintNumbersInUniqueWays\bin\Debug\PrintNumbersInUniqueWays.pdb
+C:\Users\c-rajesh.thomas\source\repos\PrintNumbersInUniqueWays\PrintNumbersInUniqueWays\obj\Debug\PrintNumbersInUniqueWays.csproj.CoreCompileInputs.cache
+C:\Users\c-rajesh.thomas\source\repos\PrintNumbersInUniqueWays\PrintNumbersInUniqueWays\obj\Debug\PrintNumbersInUniqueWays.exe
+C:\Users\c-rajesh.thomas\source\repos\PrintNumbersInUniqueWays\PrintNumbersInUniqueWays\obj\Debug\PrintNumbersInUniqueWays.pdb
